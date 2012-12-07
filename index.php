@@ -1,5 +1,6 @@
 <?php
 //Comentário correto para o workshopgit
+//Dando o reset
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../yii-1.1.12.b600af/framework/yii.php';
 $config=dirname(__FILE__).'/protected/config/main.php';
