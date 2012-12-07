@@ -4,7 +4,8 @@ class NovoTesteController extends Controller
 {
 	public function actionIndex()
 	{
-		$this->render('index'); ///Add
+	
+		$this->render('index');
 	}
 
 	// Uncomment the following methods and override them if needed
