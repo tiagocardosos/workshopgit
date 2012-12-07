@@ -1,4 +1,2 @@
-oi
-*.txt
-*.doc
-testando/*
+assets/**/*
+protected/runtime/**/*
