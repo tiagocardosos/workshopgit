@@ -4,6 +4,7 @@ class NovoTesteController extends Controller
 {
 	public function actionIndex()
 	{
+		//Estou fazendo uma alteração de teste
 		$this->render('index');
 	}
 
